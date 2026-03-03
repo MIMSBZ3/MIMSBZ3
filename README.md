@@ -1,4 +1,4 @@
-## Hi there 👋
+## Nice to see you here!
 
 <!--
 **MIMSBZ3/MIMSBZ3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am a Python programmer who likes making puns, and solving math problems.
+I have not had much (read -0 thousand) experience in C++, but I somewhat enjoy 3D modeling and 3D printing.
+☢️WARNING!☢️
+I am NOT a frequent checker of Github.
+
+
+PS: Try going to Guthib.com instead of Github

@@ -1,4 +1,3 @@
-## Nice to see you here!
 
 <!--
 **MIMSBZ3/MIMSBZ3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
